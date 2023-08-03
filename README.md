@@ -29,4 +29,4 @@ Use the Following Command to run testing.
  npm start
 ```
 ## Screeshot of Testing
-![Screesnshots](Screenshots/Screenshot1.png)
+![Screesnshot](Screenshot/Screenshot.png)
